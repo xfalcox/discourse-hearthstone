@@ -1,0 +1,4 @@
+plugins:
+  discourse_hearthstone_enabled:
+    default: false
+    client: true
